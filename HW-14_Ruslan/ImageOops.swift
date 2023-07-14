@@ -1,8 +1,8 @@
 //
 //  ImageOops.swift
-//  Shturm
 //
-//  Created by Ruslan Medetbayev on 13.07.2023.
+//
+//  Created by Ruslan Medetbayev
 //
 
 import UIKit
